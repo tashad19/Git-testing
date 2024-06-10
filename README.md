@@ -2,5 +2,3 @@
 This repo is for testing git.
 
 hallo
-button
-dropdown
